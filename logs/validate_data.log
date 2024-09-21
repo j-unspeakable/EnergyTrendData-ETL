@@ -1,0 +1,4 @@
+2024-09-21 20:47:32,491 - energytrend_etl.validation - INFO - Columns in previous and new data match
+2024-09-21 20:47:32,492 - energytrend_etl.validation - INFO - Data types in previous and new data match
+2024-09-21 20:47:32,493 - energytrend_etl.validation - INFO - Number of rows in previous and new data match
+2024-09-21 20:47:32,493 - energytrend_etl.validation - INFO - Values in previous and new data match

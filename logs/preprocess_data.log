@@ -1,0 +1,9 @@
+2024-09-21 20:47:32,300 - INFO - Data processing complete. Processed DataFrame head:
+                                1999__1st_quarter  1999__2nd_quarter  1999__3rd_quarter  1999__4th_quarter  ...  2023_4th_quarter  2024_1st_quarter_[provisional]       processed_date            filename
+Indigenous production [note 2]           34382.56           33060.35           34314.67           35341.42  ...           8280.18                         8026.91  2024-09-21 20:47:32  ET_3.1_JUL_24.xlsx
+Crude oil                                32030.90           31037.14           32261.61           32932.35  ...           7657.69                         7381.76  2024-09-21 20:47:32  ET_3.1_JUL_24.xlsx
+NGLs [note 3]                             2351.66            2023.21            2053.06            2409.07  ...            541.58                          562.82  2024-09-21 20:47:32  ET_3.1_JUL_24.xlsx
+Feedstocks                                   0.00               0.00               0.00               0.00  ...             80.91                           82.32  2024-09-21 20:47:32  ET_3.1_JUL_24.xlsx
+Imports [note 4]                         10086.68           10889.88           11828.64           12063.80  ...          10772.25                        10639.74  2024-09-21 20:47:32  ET_3.1_JUL_24.xlsx
+
+[5 rows x 103 columns]
