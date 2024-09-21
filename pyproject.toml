@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "energytrend_etl"
+version = "0.1.0"
+description = "This is a comprehensive data processing pipeline designed for ingesting, preprocessing, validating, and analyzing energy trend data. This package simplifies the extraction of energy data from online sources, applies necessary transformations, and generates insightful reports, helping users efficiently manage and analyze energy datasets. Ideal for data scientists, analysts, and professionals in the energy sector looking to automate their data workflows and derive actionable insights."
+authors = ["Joshua <famous.jt33@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "energytrend_etl"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+requests = "^2.32.3"
+beautifulsoup4 = "^4.12.3"
+pandas = "^2.2.2"
+ydata-profiling = "^4.9.0"
+tenacity = "^9.0.0"
+openpyxl = "^3.1.5"
+prefect = "^2.20.3"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
