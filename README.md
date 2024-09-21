@@ -147,6 +147,7 @@ To set up the project environment and dependencies, follow these steps:
         Running this command initiates a local Prefect server, providing a web-based interface to monitor and manage your ETL workflows. This is particularly useful for development and testing purposes.
 
 ## Conclusion
+![Screenshot 2024-09-21 224220](https://github.com/user-attachments/assets/d40dd389-dc8f-4f7d-b71a-1a9e9458e41b)
 This project provides a comprehensive ETL pipeline for ingesting, preprocessing, validating, and analyzing energy trend data. It also include data consistency and profiling reports to provide a bit of analytics around the cleaned data. By leveraging Python and various libraries, we ensure that the process is efficient, reliable, and automated.
 
 Prefect serves as the workflow orchestrator, providing scheduling capabilities to automate the ETL tasks. By deploying this pipeline, users can consistently manage and analyze energy datasets, making it ideal for data scientists, analysts, and professionals in the energy sector.
